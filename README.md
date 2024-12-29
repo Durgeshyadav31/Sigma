@@ -1,6 +1,6 @@
 # Sigma
 this is the demo class
-#teacher:
+# teacher:
 sharada khapra
-#Student:
+# Student:
 Durgesh Kumar
